@@ -1,4 +1,4 @@
 #include<iostream>
 int main() {
-	std::cout << "HelloWorld! by JunShimuraI";
+	std::cout << "HelloWorld! by JunShimura!!!";
 }
